@@ -4,9 +4,9 @@ layout: page
 ---
 
 ## 论文
-\[1\]	F\. Wang, K\. Li, C\. Liu, Z\. Mi, M\. Shafie\-Khah, and J\. P\. S\. Catalao, “Synchronous pattern matching principle-based residential demand response baseline estimation: Mechanism analysis and approach description,” *IEEE Trans\. Smart Grid*, vol\. , no\. 6, pp\. 6972\–6985, 2018\.<br><br>
-\[2\]	F\. Wang, K\. Li, C\. Liu, Z\. Mi, M\. Shafie\-Khah, and J\. P\. S\. Catalao, “Synchronous pattern matching principle-based residential demand response baseline estimation: Mechanism analysis and approach description,” *IEEE Trans\. Smart Grid*, vol\. , no\. 6, pp\. 6972\–6985, 2018\.<br><br>
-\[3\]	F\. Wang, K\. Li, C\. Liu, Z\. Mi, M\. Shafie\-Khah, and J\. P\. S\. Catalao, “Synchronous pattern matching principle-based residential demand response baseline estimation: Mechanism analysis and approach description,” *IEEE Trans\. Smart Grid*, vol\. , no\. 6, pp\. 6972\–6985, 2018\.<br><br>
+\[1\]	F\. Wang, K\. Li, C\. Liu, Z\. Mi, M\. Shafie\-Khah, and J\. P\. S\. Catalao, “Synchronous pattern matching principle-based residential demand response baseline estimation: Mechanism analysis and approach description,” *IEEE Trans\. Smart Grid*, vol\. , no\. 6, pp\. 6972–6985, 2018\.<br><br>
+\[2\]	F\. Wang, K\. Li, C\. Liu, Z\. Mi, M\. Shafie\-Khah, and J\. P\. S\. Catalao, “Synchronous pattern matching principle-based residential demand response baseline estimation: Mechanism analysis and approach description,” *IEEE Trans\. Smart Grid*, vol\. , no\. 6, pp\. 6972–6985, 2018\.<br><br>
+\[3\]	F\. Wang, K\. Li, C\. Liu, Z\. Mi, M\. Shafie\-Khah, and J\. P\. S\. Catalao, “Synchronous pattern matching principle-based residential demand response baseline estimation: Mechanism analysis and approach description,” *IEEE Trans\. Smart Grid*, vol\. , no\. 6, pp\. 6972–6985, 2018\.<br><br>
 
 ---
 
