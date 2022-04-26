@@ -7,13 +7,13 @@ layout: page
 <table border="0" style="overflow:hidden">
   <tr>
     <td width="33%">
-      <img src="/biye.jpg" width="100%">   
+      <img src="/biye.jpg" width="30%">   
     </td>
     <td width="33%">
-      <img src="/biye.jpg" width="100%">   
+      <img src="/biye.jpg" width="30%">   
     </td>
         <td width="33%">
-      <img src="/biye.jpg" width="100%">  
+      <img src="/biye.jpg" width="30%">   
     </td>
   </tr>     
 </table>
@@ -22,10 +22,10 @@ layout: page
 <table border="0" style="overflow:hidden">
   <tr>
     <td width="50%">
-      <img src="/biye.jpg" width="100%">  
+      <img src="/biye.jpg" width="30%">   
     </td>
     <td width="50%">
-      <img src="/biye.jpg" width="100%">    
+      <img src="/biye.jpg" width="30%">   
     </td>
   </tr>     
 </table>
@@ -34,13 +34,13 @@ layout: page
 <table border="0" style="overflow:hidden">
   <tr>
     <td width="33%">
-      <img src="/biye.jpg" width="100%">    
+      <img src="/biye.jpg" width="30%">     
     </td>
     <td width="33%">
-      <img src="/biye.jpg" width="100%">   
+      <img src="/biye.jpg" width="30%">   
     </td>
         <td width="33%">
-      <img src="/biye.jpg" width="100%">  
+      <img src="/biye.jpg" width="30%">   
     </td>
   </tr>     
 </table>
