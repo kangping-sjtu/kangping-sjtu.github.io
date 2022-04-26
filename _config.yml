@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "kangping-sjtu"
+author: "kangping-sjtu"
+description: "Shanghai Jiao Tong University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,8 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.md",title: "Home"}
+  - {file: "Research.md",title: "Research"}
+  - {file: "Publications.md",title: "Publications"}
+  - {file: "communication.md",title: "学术交流"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
