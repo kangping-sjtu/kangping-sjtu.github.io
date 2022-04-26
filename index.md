@@ -5,10 +5,10 @@ title: ""
 
 <table border="0" style="overflow:hidden">
   <tr>
-    <td width="25%">
+    <td width="30%">
       <img src="/zhengjianzhao.jpg" width="100%">   
     </td>
-    <td width="75%">
+    <td width="70%">
       <h1>Kangping Li</h1>
       <p>爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥爱写啥写啥</p>
       <p>爱写啥写啥</p>
@@ -17,4 +17,8 @@ title: ""
       </tr>     
 </table>
   
-  sdfdfafasfdsfd
+---
+## NEWS
+**\[2022\-04\-26\]** <font size=8>杉杉帮康平做了个人网站</font><br>
+**\[2022\-04\-26\]** <font size=8>杉杉帮康平做了个人网站</font><br>
+**\[2022\-04\-26\]** <font size=8>杉杉帮康平做了个人网站</font><br>
