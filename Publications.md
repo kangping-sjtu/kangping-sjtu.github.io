@@ -42,8 +42,15 @@ layout: page
 
 ---
 
-## Conference Papers
-卡，巴卡，阿卡，哇卡，米卡，玛卡，呣！ 玛卡， 巴卡，阿巴，雅卡，伊卡，阿卡，噢！ 哈姆，达姆，阿卡嗙，咿呀呦~ 玛卡，巴卡，阿卡，哇卡，米卡，玛卡，呣！
-卡，巴卡，阿卡，哇卡，米卡，玛卡，呣！ 玛卡， 巴卡，阿巴，雅卡，伊卡，阿卡，噢！ 哈姆，达姆，阿卡嗙，咿呀呦~ 玛卡，巴卡，阿卡，哇卡，米卡，玛卡，呣！
-卡，巴卡，阿卡，哇卡，米卡，玛卡，呣！ 玛卡， 巴卡，阿巴，雅卡，伊卡，阿卡，噢！ 哈姆，达姆，阿卡嗙，咿呀呦~ 玛卡，巴卡，阿卡，哇卡，米卡，玛卡，呣！
-<br><br>
+## Conference Proceedings
+[1]	Zhenghui Li, __Kangping Li__, Zhiming Xuan, Zhao Zhen and Fei Wang, “Decomposition-Accumulation Principle-Based Monthly Electricity Consumption Forecasting Approach Using EMD-XGBoost Hybrid Model”, __2019 IEEE Sustainable Power & Energy Conference__, Nov\.21-Nov\.23, Beijing, China\. <br><br>
+[2]	Biao Xiang, __Kangping Li__, Xinxin Ge, Zhao Zhen, Xiaoxing Lu and Fei Wang, “Day-ahead Probabilistic Forecasting of Smart Households’ Demand Response Capacity under Incentive-based Demand Response Program”, __2019 IEEE Sustainable Power & Energy Conference__, Nov\.21-Nov\.23, Beijing, China\. <br><br>
+[3]	__Kangping Li__, Xinxin Ge, Xiaoxing Lu, Fei Wang and Zengqiang Mi, “Meta-Heuristic Optimization Based Two-stage Residential Load Pattern Clustering Approach Considering Intra-cluster Compactness and Inter-cluster Separation”, __2019 IEEE IAS Annual Meeting__, Sep\.29-Oct\.3, Baltimore, USA\. <br><br>
+[4]	Biao Xiang, __Kangping Li__, Xinxin Ge, Fei Wang, Jingang Lai and Payman Dehghanian, “Smart Households’ Available Aggregated Capacity Day-ahead Forecast Model for Load Aggregators under Incentive-based Demand Response Program”, __2019 IEEE IAS Annual Meeting__, Sep\.29-Oct\.3, Baltimore, USA\. <br><br>
+[5]	Xinxin Ge, __Kangping Li__, Fei Wang and Zengqiang Mi, “Day-ahead Market Optimal Bidding Strategy and Quantitative Compensation Mechanism Design for Load Aggregator Engaging Demand Response”, __2019 IEEE IAS PES General Meeting__, Aug\. 4-8, 2019, Atlanta, USA\. <br><br>
+[6]	Xinxin Ge, __Kangping Li__, Fei Wang and Zengqiang Mi, “Day-ahead Market Optimal Bidding Strategy of Load Aggregator Engaging Demand Response Program Considering Price Uncertainty”, __2019 IEEE 55th Industrial and Commercial Power Systems Technical Conference __\(__I&CPS__ \), May\. 5-8, 2019, Calgary, AB, Canada\. <br><br>
+[7]	__Kangping Li__, Jianfeng Che, Bo Wang, Jingjing Zhang, Fei Wang and Zengqiang Mi, “A Meta-Heuristic Optimization Based Residential Load Pattern Clustering Approach Using Improved Gravitational Search Algorithm”, The 9th Conference on Innovative Smart Grid Technologies \(__2018 ISGT North America__ \), Feb\. 19-22, 2018, Washington, DC, USA\. <br><br>
+[8]	__Kangping Li__, Bo Wang, Zheng Wang, Fei Wang, Zengqiang Mi and Zhao Zhen, “A Baseline Load Estimation Approach for Residential Customer based on Load Pattern Clustering”, The 9th International Conference on Applied Energy \(__ICAE2017__ \), 21-24 August 2017, Cardiff, UK\. <br><br>
+[9]	__Kangping Li__, Fei Wang, Zhao Zhen, et al\., “Analysis on residential electricity consumption behavior using improved k-means based on simulated annealing algorithm,” in 2016 IEEE Power and Energy Conference at Illinois \(__PECI 2016__ \), February 2016\. <br><br>
+[10]	__Kangping Li__, Fei Wang, Zhao Zhen, Yujing Sun, Zengqiang Mi, Hongbin Sun, Chun Liu, Bo Wang and Jing Lu, “Photovoltaic plant operating statuses identification model based on support vector machine using loss quantity of electricity feature parameters,” in International Conference on Renewable Power Generation \(__RPG 2015__ \), 2015, pp\. 1–6\. <br><br>
+
