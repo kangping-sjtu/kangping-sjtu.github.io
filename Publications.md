@@ -43,7 +43,7 @@ layout: page
 ---
 
 ## Conference Proceedings
-[1]	Zhenghui Li, __Kangping Li__, Zhiming Xuan, Zhao Zhen and Fei Wang, “Decomposition-Accumulation Principle-Based Monthly Electricity Consumption Forecasting Approach Using EMD-XGBoost Hybrid Model”, __2019 IEEE Sustainable Power & Energy Conference__, Nov\.21-Nov\.23, Beijing, China\. <br><br>
+[1]	Zhenghui Li, __Kangping Li__, Zhiming Xuan, Zhao Zhen and Fei Wang, “Decomposition-Accumulation Principle-Based Monthly Electricity Consumption Forecasting Approach Using EMD-XGBoost Hybrid Model”, __ *2019 IEEE Sustainable Power & Energy Conference* __, Nov\.21-Nov\.23, Beijing, China\. <br><br>
 [2]	Biao Xiang, __Kangping Li__, Xinxin Ge, Zhao Zhen, Xiaoxing Lu and Fei Wang, “Day-ahead Probabilistic Forecasting of Smart Households’ Demand Response Capacity under Incentive-based Demand Response Program”, __2019 IEEE Sustainable Power & Energy Conference__, Nov\.21-Nov\.23, Beijing, China\. <br><br>
 [3]	__Kangping Li__, Xinxin Ge, Xiaoxing Lu, Fei Wang and Zengqiang Mi, “Meta-Heuristic Optimization Based Two-stage Residential Load Pattern Clustering Approach Considering Intra-cluster Compactness and Inter-cluster Separation”, __2019 IEEE IAS Annual Meeting__, Sep\.29-Oct\.3, Baltimore, USA\. <br><br>
 [4]	Biao Xiang, __Kangping Li__, Xinxin Ge, Fei Wang, Jingang Lai and Payman Dehghanian, “Smart Households’ Available Aggregated Capacity Day-ahead Forecast Model for Load Aggregators under Incentive-based Demand Response Program”, __2019 IEEE IAS Annual Meeting__, Sep\.29-Oct\.3, Baltimore, USA\. <br><br>
