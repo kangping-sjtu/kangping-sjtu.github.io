@@ -10,7 +10,7 @@ layout: page
 
 ## Journal Papers
 
-[1]	F\. Wang, X\. Ge, Z\. Dong, J\. Yan, ____K\. Li\*__, X\. Fei, et al\. “Joint Energy Disaggregation of Behind-the-Meter PV and Battery Storage: A contextually Supervised Source Separation Approach,” IEEE Trans\. Ind\. Appl\., vol\.58, no\.2, pp\.1490-1501, Mar\.Apr\. 2022\.<br><br>
+[1]	F\. Wang, X\. Ge, Z\. Dong, J\. Yan, __K\. Li\*__, X\. Fei, et al\. “Joint Energy Disaggregation of Behind-the-Meter PV and Battery Storage: A contextually Supervised Source Separation Approach,” IEEE Trans\. Ind\. Appl\., vol\.58, no\.2, pp\.1490-1501, Mar\.Apr\. 2022\.<br><br>
 [2]	__K\. Li__, J\. Yan, L\. Hu, F\. Wang and N\. Zhang, “Two-stage Decoupled Estimation Approach of Aggregated Baseline Load under High Penetration of Behind-the-Meter PV System,” IEEE Trans\. Smart Grid,vol\.12, no\. 6, pp\. 4876-4885, Nov\. 2021\.<br><br>
 [3]	F\. Wang, __K\. Li__, C\. Liu, Z\. Mi, M\. Shafie-Khah, and J\. P\. S\. Catalão, “Synchronous Pattern Matching Principle-based Residential Demand Response Baseline Estimation: Mechanism Analysis and Approach Description,” IEEE Trans\. Smart Grid, vol\. 9, no\. 6, pp\. 6972–6985, Nov\. 2018\.<br><br>
 [4]	__K\. Li__, F\. Wang, Z\. Mi, M\. Fotuhi-Firuzabad, N\. Duić, and T\. Wang, “Capacity and Output Power Estimation Approach of Individual Behind-the-meter Distributed Photovoltaic System for Demand Response Baseline Estimation,” Appl\. Energy, vol\. 253, p\. 113595, Nov\. 2019\.<br><br>
