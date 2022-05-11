@@ -4,9 +4,9 @@ title: ""
 ---
 
 <table border="0" style="overflow:hidden">
-    <td width="30%">
-      <img src="/zhengjianzhao.jpg" width="100%">   
-    </td>
+    <td width="30%" valign="TOP">  
+        <img src="/zhengjianzhao.jpg" width="100%">   
+       </td>
     
     <td width="70%">
       <h1>Kangping Li</h1>
