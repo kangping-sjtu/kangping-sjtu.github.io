@@ -17,6 +17,7 @@ title: ""
 <p>If you are interested to apply the Ph.D. /Master position in my group (from spring 2023), please send me an email with your CV, transcript, and publications. Undergraduate students are also welcome if you are interested in my research. </p>
     
   </td>
+    </tr>
 </table>
   
 ---
