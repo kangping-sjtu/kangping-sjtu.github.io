@@ -18,7 +18,6 @@ title: ""
     </td>
 
 </table>
-<tr>
 ---
 ## NEWS
 ---
