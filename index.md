@@ -7,11 +7,13 @@ title: ""
     <td width="30%" valign="TOP">  
         <img src="/zhengjianzhao.jpg" width="100%">   
         <a href="https://www.php.cn/">
-        <button>按钮1</button>
+        <button>按钮111111111</button>
         </a>
+        <br>
         <a href="https://www.php.cn/">
-        <button>按钮2</button>
+        <button>按钮22222222</button>
         </a>
+        <br>
        </td>
     
     <td width="70%">
