@@ -15,7 +15,7 @@ title: ""
       <p> I currently serve as the secretary of CIGRE C1.47 Working Group “Energy Sectors Integration and impact on power grids” and IEEE PES (China)-Integrated Energy System Operation and Planning subcommittee. I also serve as the Associate Editor of Protection and Control of Modern Power Systems (PCMP).
       <p>My research interests include demand response, electricity market, energy forecasting (wind/solar/load/price), and machine learning methods in power systems.</p>
 <p>If you are interested to apply the Ph.D. /Master position in my group (from spring 2023), please send me an email with your CV, transcript, and publications. Undergraduate students are also welcome if you are interested in my research. </p>
-    </td>
+    
   
 </table>
   
