@@ -6,6 +6,12 @@ title: ""
 <table border="0" style="overflow:hidden">
     <td width="30%" valign="TOP">  
         <img src="/zhengjianzhao.jpg" width="100%">   
+        <a href="https://www.php.cn/">
+        <button>按钮1</button>
+        </a>
+        <a href="https://www.php.cn/">
+        <button>按钮2</button>
+        </a>
        </td>
     
     <td width="70%">
