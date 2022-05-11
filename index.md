@@ -10,7 +10,9 @@ title: ""
     </td>
     <td width="70%">
       <h1>Kangping Li</h1>
-      <p>To be updated</p>
+      <p>I am currently an Assistant Professor with the College of Smart Energy, Shanghai Jiaotong University.
+I received my B. Eng degree in 2015 and Ph.D degree in 2020 both from the Department of Electrical Engineering, North China Electricity Power University, supervised by Prof. Fei Wang and Prof. Zengqiang Mi. From Dec. 2019 to May 2020, I was a visiting student at the University of Salerno, supervised by Prof. Pierluigi Siano. From Jul. 2020 to Jun. 2022, I was a Postdoctoral Researcher with the Department of Electrical Engineering, Tsinghua University, supervised by Prof. Ning Zhang and Prof. Chongqing Kang.
+</p>
       
       
      </td>
