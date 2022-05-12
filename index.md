@@ -42,5 +42,5 @@ Email:<br>kangpingli@sjtu.edu.cn</p>
 <br> <br>
 **\[2022\-02\-26\]** <font size=4>I was selected as an outstanding reviewer of IEEE Transactions on Power Systems for 2021. <a  href="https://cmte.ieee.org/tpwrs/wp-content/uploads/sites/108/2022/02/2021-Outstanding-Reviewers-TPWRS.pdf">See the list</a>. </font>
 <br><br>
-**\[2022\-01\-08\]** <font size=4>My doctoral dissertation was selected as the Excellent Doctoral Dissertation of Hebei Province.<a  href="https://www.ncepu.edu.cn/xwsd/b99b997b75f945b5a21b3a736a0a4e16.htm" >See the news</a>.</font>
+**\[2022\-01\-08\]** <font size=4>My doctoral dissertation was selected as the Excellent Doctoral Dissertation of Hebei Province. <a  href="https://www.ncepu.edu.cn/xwsd/b99b997b75f945b5a21b3a736a0a4e16.htm" >See the news</a>.</font>
 <br><br>
