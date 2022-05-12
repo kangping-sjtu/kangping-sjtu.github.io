@@ -6,7 +6,7 @@ title: ""
 <table border="0" style="overflow:hidden">
     <td width="26%" valign="TOP">  
         <img src="/zhengjianzhao.jpg" width="100%">   
-        <p>Address:<br>Room 412, East administration building, No. 665, Jianchuan Road, Minhang District, Shanghai<br>
+        <p>Address:<br>Room 412, East admini-stration building, No. 665, Jianchuan Road, Minhang District, Shanghai<br>
 Email:<br>kangpingli@sjtu.edu.cn</p>
         <br>
         <a href=" https://scholar.google.com/citations?user=I10bB6IAAAAJ&hl=zh-CN">Google Scholar</a>
@@ -26,13 +26,8 @@ Email:<br>kangpingli@sjtu.edu.cn</p>
     </td>
     
     
-
-    
 </table>
-
----
 ## NEWS
----
 **\[2022\-02\-26\]** <font size=3>I was selected as an outstanding reviewer of IEEE Transactions on Power Systems for 2021. https://cmte.ieee.org/tpwrs/wp-content/uploads/sites/108/2022/02/2021-Outstanding-Reviewers-TPWRS.pdf </font>
 <br><br>
 **\[2022\-04\-19\]** <font size=3>I was appointed as an Associate Editor of Protection and Control of Modern Power Systems (PCMP). </font>
