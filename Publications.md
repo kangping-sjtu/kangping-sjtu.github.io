@@ -7,7 +7,6 @@ layout: page
 [1] F\. Wang, __K\. Li__, Y\. Jia, Z\. Mi, Y\. Yu. Theory and technology of demand-side resource aggregation and response, Science Press, 2022.
 
 ---
-
 ## Journal Papers
 
 [1]	F\. Wang, X\. Lu, X\. Chang, X\. Cao, S\. Yan, __K\. Li\*__, et al, “Household Profile Identification for Behavioral Demand Response: A Semi-supervised Learning Approach Using Smart Meter Data,” ___Energy___, vol\. 238, pp\.121728, 2022\.<br><br>
