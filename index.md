@@ -36,7 +36,7 @@ Email:<br>kangpingli@sjtu.edu.cn</p>
 ## NEWS
 **\[2022\-04\-19\]** <font size=4>I was appointed as an Associate Editor of Protection and Control of Modern Power Systems (PCMP). </font>
 <br><br>
-**\[2022\-03\-23\]** <font size=4>Our SENIOR group led by my PhD supervisor Prof. Fei Wang was reported by Nature spotlight for our work on renewable energy forecasting!. <a  href="https://www.nature.com/articles/d41586-022-00801-4</font>">See the news</a>.</font>
+**\[2022\-03\-23\]** <font size=4>Our SENIOR group led by my PhD supervisor Prof. Fei Wang was reported by Nature spotlight for our work on renewable energy forecasting! <a  href="https://www.nature.com/articles/d41586-022-00801-4</font>">See the news</a>.</font>
 <br><br>
 **\[2022\-03\-18\]** <font size=4>I got the offer from Shanghai Jiao Tong University. I wiil join the College of Smart Energy as an Assistant Professor in June 2022. </font>
 <br> <br>
