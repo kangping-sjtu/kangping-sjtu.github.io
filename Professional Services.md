@@ -3,17 +3,20 @@ title: "Professional Services"
 layout: page
 ---
 
-**\[2020\-06\-30\]** <font size=3>不知道写啥学术交流，暂且写个毕业吧</font>
-<table border="0" style="overflow:hidden">
-  <tr>
-    <td width="50%">
-      <img src="/biye.jpg" width="100%"> 
-    </td>
-    <td width="50%">
-      <img src="/biye.jpg" width="100%"> 
-    </td>
-  </tr>     
-</table>
-<br><br>
+**Academic Members** 
+* Associate Editor, Protection and Control of Modern Power Systems \(PCMP\), 2022\-2024
+* Secretary, CIGRE C1\.47 Working Group on Energy Sectors Integration and impact on power grids
+* Secretary, IEEE PES \(China\)\-Integrated Energy System Operation and Planning subcommittee
 
-
+**Academic Members** 
+* IEEE Transactions on Power Systems
+* IEEE Transactions on Smart Grid
+* IEEE PES Letters
+* IEEE Transactions on Industry Applications
+* IEEE Transactions on Industrial Informatics
+* Applied Energy
+* Energy
+* International Journal of Electrical Power & Energy Systems
+* Electric Power Systems Research
+* CSEE Journal of Power and Energy Systems
+* Journal of Modern Power Systems and Clean Energy
