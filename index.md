@@ -8,15 +8,10 @@ title: ""
         <img src="/zhengjianzhao.jpg" width="100%">   
         <p>Address:<br>Room 412, East administration building, No. 665, Jianchuan Road, Minhang District, Shanghai<br>
 Email:<br>kangpingli@sjtu.edu.cn</p>
-        <br><br>
-        
-        <a href="https://www.php.cn/">
-        <button width="75%"  text-align="center">按钮22222222</button>
-        </a>
-                <a href="https://www.php.cn/">
-        <button width="75%"  text-align="center">按钮22222222</button>
-        </a>
-
+        <br>
+        <a href=" https://scholar.google.com/citations?user=I10bB6IAAAAJ&hl=zh-CN">Google Scholar</a>
+        <br>
+        <a href="https://www.researchgate.net/profile/Kangping-Li-3">ResearchGate</a>
         <br>
        </td>
     
