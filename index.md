@@ -3,6 +3,8 @@ layout: page
 title: ""
 ---
 
+
+
 <table border="0" style="overflow:hidden">
     <td width="26%" valign="TOP">  
         <img src="/zhengjianzhao.jpg" width="100%">   
@@ -13,8 +15,7 @@ Email:<br>kangpingli@sjtu.edu.cn</p>
         <br>
         <a href="https://www.researchgate.net/profile/Kangping-Li-3">ResearchGate</a>
         <br>
-                <a href="https://www.researchgate.net/profile/Kangping-Li-3">ResearchGate</a>
-        <br>
+
        </td>
     
     <td width="74%">
