@@ -36,9 +36,11 @@ Email:<br>kangpingli@sjtu.edu.cn</p>
 ## NEWS
 **\[2022\-04\-19\]** <font size=4>I was appointed as an Associate Editor of Protection and Control of Modern Power Systems (PCMP). </font>
 <br><br>
+**\[2022\-03\-23\]** <font size=4>Our SENIOR group led by my PhD supervisor Prof. Fei Wang was reported by Nature spotlight for our work on renewable energy forecasting!. <a  href="https://www.nature.com/articles/d41586-022-00801-4</font>">see the news</a>.
+<br><br>
 **\[2022\-03\-18\]** <font size=4>I got the offer from Shanghai Jiao Tong University. I wiil join the College of Smart Energy as an Assistant Professor in June 2022. </font>
 <br> <br>
-**\[2022\-02\-26\]** <font size=4>I was selected as an outstanding reviewer of IEEE Transactions on Power Systems for 2021. https://cmte.ieee.org/tpwrs/wp-content/uploads/sites/108/2022/02/2021-Outstanding-Reviewers-TPWRS.pdf </font>
+**\[2022\-02\-26\]** <font size=4>I was selected as an outstanding reviewer of IEEE Transactions on Power Systems for 2021. <a  href="https://cmte.ieee.org/tpwrs/wp-content/uploads/sites/108/2022/02/2021-Outstanding-Reviewers-TPWRS.pdf">see the list</a>. </font>
 <br><br>
-**\[2022\-01\-08\]** <font size=4>My doctoral dissertation was selected as the Excellent Doctoral Dissertation of Hebei Province.</font>
+**\[2022\-01\-08\]** <font size=4>My doctoral dissertation was selected as the Excellent Doctoral Dissertation of Hebei Province.<a  href="https://www.ncepu.edu.cn/xwsd/b99b997b75f945b5a21b3a736a0a4e16.htm" >see the news</a>.</font>
 <br><br>
