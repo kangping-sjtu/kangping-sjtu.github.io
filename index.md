@@ -4,10 +4,10 @@ title: ""
 ---
 
 <table border="0" style="overflow:hidden">
-    <td width="27%" valign="TOP">  
+    <td width="26%" valign="TOP">  
         <img src="/zhengjianzhao.jpg" width="100%">   
         <br>
-        <p>Add.: Room 412, East administration building, No. 665, Jianchuan Road, Minhang District, Shanghai<br><br>
+        <p>Add.: Room 412, East administration building, No. 665, Jianchuan Road, Minhang District, Shanghai<br>
 Email: kangpingli@sjtu.edu.cn</p>
         <br><br>
         
@@ -21,7 +21,7 @@ Email: kangpingli@sjtu.edu.cn</p>
         <br>
        </td>
     
-    <td width="73%">
+    <td width="74%">
       <h1>Kangping Li</h1>
       <p>I am currently an Assistant Professor with the College of Smart Energy, Shanghai Jiao Tong University.<br><br>
      I received my B. Eng degree in 2015 and Ph.D degree in 2020 both from the Department of Electrical Engineering, North China Electricity Power University, supervised by Prof. Fei Wang and Prof. Zengqiang Mi. From Dec. 2019 to May 2020, I was a visiting student at the University of Salerno, supervised by Prof. Pierluigi Siano. From Jul. 2020 to Jun. 2022, I was a Postdoctoral Researcher with the Department of Electrical Engineering, Tsinghua University, supervised by Prof. Ning Zhang and Prof. Chongqing Kang. <br><br>
