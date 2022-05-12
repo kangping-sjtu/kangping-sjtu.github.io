@@ -6,9 +6,8 @@ title: ""
 <table border="0" style="overflow:hidden">
     <td width="26%" valign="TOP">  
         <img src="/zhengjianzhao.jpg" width="100%">   
-        <br>
-        <p>Add.: Room 412, East administration building, No. 665, Jianchuan Road, Minhang District, Shanghai<br>
-Email: kangpingli@sjtu.edu.cn</p>
+        <p>Address:<br>Room 412, East administration building, No. 665, Jianchuan Road, Minhang District, Shanghai<br>
+Email:<br>kangpingli@sjtu.edu.cn</p>
         <br><br>
         
         <a href="https://www.php.cn/">
