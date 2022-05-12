@@ -6,14 +6,10 @@ title: ""
 <table border="0" style="overflow:hidden">
     <td width="30%" valign="TOP">  
         <img src="/zhengjianzhao.jpg" width="100%">   
-        <a href="https://www.php.cn/">
-        <button width="80%"  text-align="center">按钮111111111</button>
-        </a>
-        <br>
-        <a href="https://www.php.cn/">
-        <button width="80%"  text-align="center">按钮22222222</button>
-        </a>
-        <br>
+        <br><br>
+        <p>Add.: Room 412, East administration building, No. 665, Jianchuan Road, Minhang District, Shanghai<br><br>
+Email: kangpingli@sjtu.edu.cn</p>
+        <br><br>
         <a href="https://www.php.cn/">
         <button width="80%"  text-align="center">按钮22222222</button>
         </a>
