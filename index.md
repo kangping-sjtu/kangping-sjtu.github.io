@@ -34,9 +34,9 @@ Email:<br>kangpingli@sjtu.edu.cn</p>
     
 </table>
 ## NEWS
-**\[2022\-02\-26\]** <font size=4>I was selected as an outstanding reviewer of IEEE Transactions on Power Systems for 2021. https://cmte.ieee.org/tpwrs/wp-content/uploads/sites/108/2022/02/2021-Outstanding-Reviewers-TPWRS.pdf </font>
-<br><br>
 **\[2022\-04\-19\]** <font size=4>I was appointed as an Associate Editor of Protection and Control of Modern Power Systems (PCMP). </font>
 <br><br>
 **\[2022\-03\-18\]** <font size=4>I wiil join the College of Smart Energy, Shanghai Jiao Tong University as an Assistant Professor in June 2022. </font>
 <br> <br>
+**\[2022\-02\-26\]** <font size=4>I was selected as an outstanding reviewer of IEEE Transactions on Power Systems for 2021. https://cmte.ieee.org/tpwrs/wp-content/uploads/sites/108/2022/02/2021-Outstanding-Reviewers-TPWRS.pdf </font>
+<br><br>
