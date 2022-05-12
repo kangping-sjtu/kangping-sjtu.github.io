@@ -20,7 +20,7 @@ layout: page
 
 ---
 
-## 研究内容二
+## Research interests
 
 <br><br>
 
