@@ -3,8 +3,8 @@ title: "Publications"
 layout: page
 ---
 
-## Monograph
-[1] 
+## Books
+[1] F\. Wang, __K\. Li__, Y\. Jia, Z\. Mi, Y\. Yu. Theory and technology of demand-side resource aggregation and response, Science Press, 2022.
 
 ---
 
