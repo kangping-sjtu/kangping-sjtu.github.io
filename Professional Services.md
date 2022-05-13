@@ -7,8 +7,9 @@ layout: page
 * Associate Editor, Protection and Control of Modern Power Systems \(PCMP\), 2022\-2024
 * Secretary, CIGRE C1\.47 Working Group on Energy Sectors Integration and impact on power grids
 * Secretary, IEEE PES \(China\)\-Integrated Energy System Operation and Planning subcommittee
+* Director, IEEE PES SBLC \(China\)-Smart Energy Blockchain Subcommittee
 
-**Academic Members** 
+**Journal Reviewers** 
 * IEEE Transactions on Power Systems
 * IEEE Transactions on Smart Grid
 * IEEE PES Letters
@@ -20,3 +21,5 @@ layout: page
 * Electric Power Systems Research
 * CSEE Journal of Power and Energy Systems
 * Journal of Modern Power Systems and Clean Energy
+* Journal of Energy Storage
+* Energy Reports
