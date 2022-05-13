@@ -20,7 +20,7 @@ title: ""
     
     <td width="74%">
       <h1 margin-top="7.89px">Kangping Li</h1>
-      <p>I am currently an Assistant Professor with the College of Smart Energy, Shanghai Jiao Tong University.<br><br>
+      <p>I am currently an Assistant Professor with the <a href=" https://www.senergy.sjtu.edu.cn/">College of Smart Energy</a>, Shanghai Jiao Tong University.<br><br>
           
      I received my B.Sc. degree and Ph.D degree both in Electrical Engineering from North China Electric Power University, in 2015 and 2020, respectively, supervised by Prof. <a  href="https://ee.ncepu.edu.cn/szdw/dzjys/zgzc5/wf/index.htm">Fei Wang</a> and Prof.  <a  href=" https://laps.ncepu.edu.cn/jgdw/sysyjry/mzq.htm">Zengqiang Mi</a>. From Dec. 2019 to May 2020, I was a visiting student at the University of Salerno, supervised by Prof. <a  href="https://scholar.google.com/citations?user=bSvAqDUAAAAJ&hl=en">Pierluigi Siano</a> . From Jul. 2020 to Jun. 2022, I was a Postdoctoral Researcher with the Department of Electrical Engineering, Tsinghua University, supervised by Prof.<a  href="https://www.eea.tsinghua.edu.cn/faculties/ningzhang.htm"> Ning Zhang</a>  and Prof. <a  href="https://www.eea.tsinghua.edu.cn/faculties/cqkang.htm">Chongqing Kang</a>. <br><br>
           
