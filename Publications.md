@@ -11,7 +11,7 @@ layout: page
 
 [1]	__K\. Li__, Y\. Wang, N\. Zhang, F\. Wang, “Precision and Accuracy Co-optimization Based Demand Response Baseline Load Estimation Using Bi-directional Data”, ___IEEE Trans\. Smart Grid___, Early access, 2022\. <br><br>
 [2]	__K\. Li__, Y\. Wang, N\. Zhang, F\. Wang, C\. Huang, “Spatio-temporal Granularity Co-optimization Based Monthly Electricity Consumption Forecasting”, ___CSEE J\. Power Energy Syst\.___, Early access, 2022\. <br><br>
-[3]	刘春阳，__李康平\*__，纪陵，米增强. 基于聚类-估计联动的需求响应集群基线负荷估计方法，___电力系统自动化___\（已录用\）\. <br><br>
+[3]	刘春阳，__李康平\*__，纪陵，米增强. 基于聚类-估计联动的需求响应集群基线负荷估计方法，___电力系统自动化___（已录用）\. <br><br>
 [4]	P\. Tao, F\. Xu, Z\. Dong, C\. Zhang, X\. Peng, J\. Zhao, __K\. Li__, F\. Wang\. :”Graph convolutional network-based aggregated demand response baseline load estimation,” ___Energy___, vol\. 251, pp\.123847, 2022\.<br><br>
 [5]	F\. Wang, X\. Lu, X\. Chang, X\. Cao, S\. Yan, __K\. Li\*__, et al, “Household Profile Identification for Behavioral Demand Response: A Semi-supervised Learning Approach Using Smart Meter Data,” ___Energy___, vol\. 238, pp\.121728, 2022\.<br><br>
 [6]	F\. Wang, X\. Ge, Z\. Dong, J\. Yan, __K\. Li\*__, X\. Fei, et al\. “Joint Energy Disaggregation of Behind-the-Meter PV and Battery Storage: A contextually Supervised Source Separation Approach,” ___IEEE Trans\. Ind\. Appl\.___, vol\.58, no\.2, pp\.1490-1501, Mar\.Apr\. 2022\.<br><br>
